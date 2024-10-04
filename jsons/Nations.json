@@ -7,7 +7,7 @@
 		"outerColor": [8, 77, 225],
 		"innerColor": [8, 215, 225],
 		"uniqueName": "유럽의 병자"
-		"unique": ["[-15]% [Production] [in all cities]", "[-15]% [gold] [in all cities]", "[-20]% [Production] [in all cities] <when constructing [Melee] units>"],
+		"unique": ["[+-15]% [Production] [in all cities]", "[+-15]% [gold] [in all cities]", "[-20]% [Production] [in all cities] <when constructing [Melee] units>"],
 		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
 			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
 			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
