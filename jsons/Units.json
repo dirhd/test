@@ -82,7 +82,7 @@
 		"requiredResource": "Coal",
 		"upgradesTo": "Destroyer",
 		"obsoleteTech": "Combustion",
-		"uniques": ["[+33]% Strength <vs cities>","Double movement in [Coast]", "Never appears as a Barbarian unit"],
+		"uniques": ["[+33]% Strength <vs cities>","Double movement in [Coast]", "Never appears as a Barbarian unit", "Can be purchased for [360] [Gold] [in all cities]"],
 		"attackSound": "shipguns"
 	},
 
