@@ -73,7 +73,7 @@
 	{
 		"name": "서양제 철갑함",
 		"replaces": "Ironclad",
-		"uniqueTo":: "그리스",
+		"uniqueTo": "그리스",
 		"unitType": "Melee Water",
 		"movement": 3,
 		"strength": 47,
