@@ -70,6 +70,21 @@
 		"obsoleteTech": "Rifling",
 		"attackSound": "shot"
 	},
+	{
+		"name": "서양제 철갑함",
+		"replaces": "Ironclad",
+		"uniqueTo":: "그리스",
+		"unitType": "Melee Water",
+		"movement": 3,
+		"strength": 47,
+		"cost": 25000,
+		"requiredTech": "Steam Power",
+		"requiredResource": "Coal",
+		"upgradesTo": "Destroyer",
+		"obsoleteTech": "Combustion",
+		"uniques": ["[+33]% Strength <vs cities>","Double movement in [Coast]", "Never appears as a Barbarian unit"],
+		"attackSound": "shipguns"
+	},
 
 
 ]
