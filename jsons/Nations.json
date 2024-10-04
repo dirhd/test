@@ -21,7 +21,7 @@
 		"outerColor": [236, 48, 13],
 		"innerColor": [240,240,240],
 		"uniqueName": "불굴의 정신"
-		"uniques": ["[+10]% to Flank Attack bonuses", "[+15]% [Production] [in all cities] <when at war>", "[+10]% Strength <when defending> <in friendly territory>"]
+		"uniques": ["[+10]% to Flank Attack bonuses", "[+15]% [Production] [in all cities] <when at war>", "[+10]% Strength <when defending> <at friendly territory>"]
 		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
 			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
 			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
