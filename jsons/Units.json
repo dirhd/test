@@ -29,6 +29,8 @@
 	{
 		"name": "산악포",
 		"unitType": "Siege",
+		"replaces": "Artillery"
+		"uniqueTo": "세르비아"
 		"movement": 2,
 		"strength": 21,
 		"rangedStrength": 26,
