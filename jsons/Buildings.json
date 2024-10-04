@@ -1,3 +1,13 @@
 [
-	
+	{
+		"name": "밀레트",
+		"replaces": "Courthouse",
+		"uniqueTo": "오스만",
+		"maintenance": 4,
+		"happiness": 2,
+		"hurryCostModifier": 50,
+		"uniques": ["Remove extra unhappiness from annexed cities",
+			"Can only be built <in [Annexed] cities>"],
+		"requiredTech": "Mathematics"
+	}
 ]
