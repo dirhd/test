@@ -10,4 +10,14 @@
 			"Can only be built <in [Annexed] cities>"],
 		"requiredTech": "Mathematics"
 	}
+	{
+		"name": "불가리아 왕립 사관학교",
+		"replaces": "Military Academy",
+		"uniqueTo": "불가리아",
+		"hurryCostModifier": 0,
+		"maintenance": 2,
+		"requiredBuilding": "Armory",
+		"uniques": ["New [Military] units start with [25] Experience [in this city]", "Destroyed when the city is captured"],
+		"requiredTech": "Military Science"
+	},
 ]
