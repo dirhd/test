@@ -49,7 +49,7 @@
 		"outerColor": [0, 43, 127],
 		"innerColor": [252, 209, 22],
 		"uniqueName": "발칸의 유일한 라틴국가"
-		"uniques": ["[+20]% [Culture] [in all cities]", "[+5]% [Production] [in all cities] when constructing [Military] units <upon declaring a defensive pact>"],
+		"uniques": ["[+20]% [Culture] [in all cities]", "[+5]% Production when constructing [Military] units [in all cities] <upon declaring a defensive pact>"],
 		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
 			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
 			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
