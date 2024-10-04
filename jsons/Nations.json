@@ -35,7 +35,7 @@
 		"outerColor": [5, 136, 5],
 		"innerColor": [213, 61, 12],
 		"uniqueName": "발칸의 프로이센"
-		"uniques": ["[+10]% Strength <when attacking>", "[+35]% Production when constructing [Melee] units [in all cities]"],
+		"uniques": ["[+10]% Strength for [Melee] units <when attacking>", "[+35]% Production when constructing [Melee] units [in all cities]"],
 		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
 			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
 			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
