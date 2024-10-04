@@ -1,17 +1,59 @@
 [
+	
 	{
-		"name": "Phasers",
-		"unitType": "Ranged",
-		"uniqueTo": "Aliens",
-		"replaces": "Machine Gun",
+		"name": "예니체리",
+		"unitType": "Gunpowder",
+		"replaces": "Rifleman",
+		"uniqueTo": "오스만",
 		"movement": 2,
-		"strength": 90,
-		"rangedStrength": 36,
-		"range": 2,
-		"cost": 500,
-		"requiredTech": "Ballistics",
-		"requiredResource": "Uranium",
-		"promotions": ["Logistics","Accuracy I"],
-		"attackSound": "phasers"
-	}
+		"strength": 39,
+		"cost": 225,
+		"requiredTech": "Rifling",
+		"upgradesTo": "Great War Infantry",
+		"obsoleteTech": "Rifling",
+		"attackSound": "shot"
+	},
+	{
+		"name": "불가리아 소총병",
+		"unitType": "Gunpowder",
+		"replaces": "Rifleman",
+		"uniqueTo": "불가리아",
+		"movement": 2,
+		"strength": 36,
+		"cost": 250,
+		"requiredTech": "Rifling",
+		"upgradesTo": "Great War Infantry",
+		"obsoleteTech": "Rifling",
+		"attackSound": "shot"
+	},
+	{
+		"name": "산악포",
+		"unitType": "Siege",
+		"movement": 2,
+		"strength": 21,
+		"rangedStrength": 26,
+		"range": 3,
+		"cost": 320,
+		"requiredTech": "Dynamite",
+		"upgradesTo": "Rocket Artillery",
+		"uniques": ["[+200]% Strength <vs cities> <when attacking>","No defensive terrain bonus",
+			"Must set up to ranged attack","[-1] Sight", "Never appears as a Barbarian unit","[+15]% Strength <when fighting in [Rough terrain] tiles" ],
+		"promotions": ["Indirect Fire"],
+		"attackSound": "artillery"
+	},
+	{
+		"name": "세르비아 민병대",
+		"unitType": "Gunpowder",
+		"replaces": "Rifleman",
+		"uniqueTo": "세르비아",
+		"movement": 2,
+		"strength": 34,
+		"cost": 135,
+		"requiredTech": "Rifling",
+		"upgradesTo": "Great War Infantry",
+		"obsoleteTech": "Rifling",
+		"attackSound": "shot"
+	},
+
+
 ]
