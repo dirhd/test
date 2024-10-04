@@ -20,4 +20,27 @@
 		"uniques": ["New [Military] units start with [25] Experience [in this city]", "Destroyed when the city is captured"],
 		"requiredTech": "Military Science"
 	},
+	{
+		"name": "루마니아 왕궁",
+		"replaces": "Palace",
+		"isNationalWonder": true,
+		"production": 3,
+		"science": 3,
+		"gold": 3,
+		"culture": 1,
+		"cityStrength": 2,
+		"cost": 1,
+		"uniques": ["Indicates the capital city", "[+10]% [Culture] [in capital]"]
+	},
+	{
+		"name": "로마식 박물관",
+		"replaces": "Museum",
+		"culture": 8,
+		"specialistSlots": {"Artist": 2},
+		"requiredBuilding": "Opera House",
+		"maintenance": 3,
+		"hurryCostModifier": 0,
+		"requiredTech": "Archaeology",
+		"uniques": ["Destroyed when the city is captured"]
+	},
 ]
