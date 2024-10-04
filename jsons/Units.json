@@ -10,7 +10,7 @@
 		"cost": 225,
 		"requiredTech": "Rifling",
 		"upgradesTo": "Great War Infantry",
-		"obsoleteTech": "Rifling",
+		"obsoleteTech": "Replaceable Parts",
 		"attackSound": "shot"
 	},
 	{
@@ -23,7 +23,7 @@
 		"cost": 250,
 		"requiredTech": "Rifling",
 		"upgradesTo": "Great War Infantry",
-		"obsoleteTech": "Rifling",
+		"obsoleteTech": "Replaceable Parts",
 		"attackSound": "shot"
 	},
 	{
@@ -51,7 +51,7 @@
 		"cost": 135,
 		"requiredTech": "Rifling",
 		"upgradesTo": "Great War Infantry",
-		"obsoleteTech": "Rifling",
+		"obsoleteTech": "Replaceable Parts",
 		"attackSound": "shot"
 	},
 
