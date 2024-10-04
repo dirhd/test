@@ -8,7 +8,7 @@
 		"unique": "[+50]% Production when constructing [예니체리] units [in all cities]"
 		"movement": 2,
 		"strength": 39,
-		"cost": 225,
+		"cost": 150,
 		"requiredTech": "Rifling",
 		"upgradesTo": "Great War Infantry",
 		"obsoleteTech": "Replaceable Parts",
