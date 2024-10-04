@@ -54,6 +54,19 @@
 		"obsoleteTech": "Replaceable Parts",
 		"attackSound": "shot"
 	},
+	{
+		"name": "독립 민병대",
+		"unitType": "Gunpowder",
+		"replaces": "Musketman",
+		"uniqueTo": "그리스",
+		"movement": 2,
+		"strength": 19,
+		"cost": 75,
+		"requiredTech": "Gunpowder",
+		"upgradesTo": "Rifleman",
+		"obsoleteTech": "Rifling",
+		"attackSound": "shot"
+	},
 
 
 ]
