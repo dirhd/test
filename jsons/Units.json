@@ -5,6 +5,7 @@
 		"unitType": "Gunpowder",
 		"replaces": "Rifleman",
 		"uniqueTo": "오스만",
+		"unique": "[+50]% Production <when produce this unit>"
 		"movement": 2,
 		"strength": 39,
 		"cost": 225,
