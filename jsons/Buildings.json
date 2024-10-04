@@ -23,6 +23,7 @@
 	{
 		"name": "루마니아 왕궁",
 		"replaces": "Palace",
+		"uniqueTo": "루마니아",
 		"isNationalWonder": true,
 		"production": 3,
 		"science": 3,
@@ -35,6 +36,7 @@
 	{
 		"name": "로마식 박물관",
 		"replaces": "Museum",
+		"uniqueTo": "루마니아",
 		"culture": 8,
 		"specialistSlots": {"Artist": 2},
 		"requiredBuilding": "Opera House",
